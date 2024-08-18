@@ -1,2 +1,3 @@
 This project highlights the creation of a 3D population density map in R using the rayshader package. In this case, population data from Kontur for the city of Abidjan in Côte d'Ivoire.
-![test_pop_Babi3](https://github.com/user-attachments/assets/fa8f9ff4-44c7-4a44-b5dd-a1245d0e2f19)
+![Density pop babi](https://github.com/user-attachments/assets/9b55d58d-dd26-48ac-b265-bd486c59a8b6)
+
